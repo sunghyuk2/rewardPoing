@@ -1,4 +1,4 @@
-## rewardPoing
+## rewardPoin
 파이썬 공부하기
 
 2022-08-30
